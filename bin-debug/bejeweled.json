@@ -1,0 +1,14 @@
+{
+	"levels":[
+		{"scores":1000, "playGroundSize":{"width":6, "height":6}, "gems":[0,1,2,3,4]},
+		{"scores":2000, "playGroundSize":{"width":7, "height":7}, "gems":[0,1,2,3,4,5]},
+		{"scores":3000, "playGroundSize":{"width":8, "height":8}, "gems":[0,1,2,3,4,5,6]},
+		{"scores":4000, "playGroundSize":{"width":9, "height":8}, "gems":[0,1,2,3,4,5,6,7]},
+		{"scores":5000, "playGroundSize":{"width":10, "height":8}, "gems":[0,1,2,3,4,5,6,7,8]},
+		{"scores":6000, "playGroundSize":{"width":11, "height":8}, "gems":[0,1,2,3,4,5,6,7,8,9]},
+		{"scores":7000, "playGroundSize":{"width":12, "height":8}, "gems":[0,1,2,3,4,5,6,7,8,9,10]},
+		{"scores":8000, "playGroundSize":{"width":13, "height":8}, "gems":[0,1,2,3,4,5,6,7,8,9,10]},
+		{"scores":9000, "playGroundSize":{"width":14, "height":8}, "gems":[0,1,2,3,4,5,6,7,8,9,10]},
+		{"scores":10000, "playGroundSize":{"width":14, "height":8}, "gems":[0,1,2,3,4,5,6,7,8,9,10]}
+	]
+}
